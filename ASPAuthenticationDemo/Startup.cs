@@ -37,8 +37,8 @@ namespace ASPAuthenticationDemo
             services.AddAuthentication().AddFacebook(
                     option =>
                     {
-                        option.AppId = "380777623164735";
-                        option.AppSecret = "c22ca3ed8ee60f7b5c1590ac751937a7";
+                        option.AppId = "xxxxxxxxxx";
+                        option.AppSecret = "xxxxxxxxxxxxxxxx";
                     }
                 );
 
